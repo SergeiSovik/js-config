@@ -1,4 +1,4 @@
-# Config Library
+# Config PWA Library
 
 This is library for a fork project of [PWA](https://github.com/SergioRando/PWA)
 
